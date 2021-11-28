@@ -2,6 +2,6 @@
 OpenGL Cmake Cross-platform template
 
 #Requirements
-- Vcpkg
+- Vcpkg (c:\vcpkg \ ~\vcpkg)
 - GFLW3:triplet
 - GLAD:triplet
